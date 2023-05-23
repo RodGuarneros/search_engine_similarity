@@ -14,6 +14,7 @@ The best algorithms were highlighted previously, based in simulation and running
 ### THE APLICATION
 With all this elements in mind, here you can find 216 lines of code that creates an searching algorithm as an application with the followig characteristics: 
 
+![Alt](https://github.com/RodGuarneros/search_engine_similarity/blob/main/Aplicaci%C3%B3n.png)
 
 ### BEFORE RUN THE APP YOU NEED THE FOLLOWING DEPENDENCIES: 
 import json
